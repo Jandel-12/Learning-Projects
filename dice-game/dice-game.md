@@ -1,0 +1,1 @@
+In this project I will try to learn ES6 exports/imports 
