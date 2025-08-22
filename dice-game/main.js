@@ -1,5 +1,5 @@
-import Game from "/modules/game.js";
-import { display } from "/modules/ui.js";
+import Game from "./modules/game.js";
+import { display } from "./modules/ui.js";
 
 const dice1 = document.getElementById("dice1");
 const dice2 = document.getElementById("dice2");
